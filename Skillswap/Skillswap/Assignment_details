@@ -1,0 +1,24 @@
+This file consists of Assignment details
+
+Assignment given: For the website: http://www.skillswap.pro/
+
+Test User Story:
+Feature: SellerAdd Profile Details
+Priority: Major
+As a Seller
+I want the feature to add my Profile Details
+So that
+The people seeking for some skills can look into my details.
+
+Acceptance Criteria
+ Seller is able to add the Profile Details.
+ Seller is able to see the seller’s details on the Profile page.
+
+The task consists of two versions:
+Task 1: For the above User story, Follow BDD and write all the possible test cases on the Specflow
+Feature file.
+Task 2: Identify any 3 complex test cases from feature file and automate them.
+
+
+Note: Please find the possible testcases in all the feature files of this project(4 feature files)
+The 3 testcases implemented are EducationFeature,SKillsFeature and LanguageFeature
